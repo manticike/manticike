@@ -30,6 +30,7 @@
 | Project | Description | Live Demo | Source |
 |--------|-------------|-----------|--------|
 My Portfolio |A modern personal website to showcase my projects, services, and blog articles. | https://antisaac.com/ | https://github.com/manticike/my-portfolio
+AI Chatbot | A simple chatbot project that uses openAI chatgpt mode to answer questions from the users | | https://github.com/manticike/chatbot-project
 > More coming soon...
 
 ---
